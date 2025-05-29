@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Clock Compose Demo](demo.gif)
+  ![Clock Compose Demo](![clock compose](https://github.com/user-attachments/assets/80b80982-c047-430a-931b-870798fc982f).gif)
   
   *A beautiful collection of animated clock components built with Jetpack Compose*
   
